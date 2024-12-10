@@ -37,12 +37,5 @@ The dataset contains records of a fictional subscription-based company, includin
 
 ---
 
-## Repository Structure
-- **data/**: Contains the dataset used for analysis
-- **notebooks/**: Includes Jupyter notebooks for data cleaning, analysis, and visualization
-- **README.md**: Project overview and documentation
-
----
-
 Feel free to explore and contribute!
 
