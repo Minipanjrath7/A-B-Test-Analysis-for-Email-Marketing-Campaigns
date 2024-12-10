@@ -1,4 +1,4 @@
-# A/B Testing Analysis for Email Marketing Campaigns
+# A/B Test Analysis for Email Marketing Campaigns
 
 ## Overview
 This project evaluates the effectiveness of personalized emails (B-variant) compared to standard boilerplate emails (A-variant) through A/B testing. Using statistical techniques, measured the lift in conversion rates and analyzed campaign performance across various customer segments.
